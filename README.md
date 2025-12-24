@@ -33,8 +33,11 @@ This approach follows React best practices:
 Install dependencies:
 
 ```bash
-npm install
+## npm install
 
-![npm install output 1](./assets/npm-install-1.png)
-![npm install output 2](./assets/npm-install-2.png)
-![npm install output 3](./assets/npm-install-3.png)
+<img width="800" alt="npm install output 1" src="https://github.com/user-attachments/assets/98a5dffa-8e9d-4180-a7a1-5c6cee48cc9d" />
+
+<img width="800" alt="npm install output 2" src="https://github.com/user-attachments/assets/5027c352-b9ff-4c00-b6f7-909c31d1de74" />
+
+<img width="800" alt="npm install output 3" src="https://github.com/user-attachments/assets/7ede4d05-d9f3-4d0a-9acd-5a2c13038eef" />
+
